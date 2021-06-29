@@ -1,0 +1,35 @@
+body
+{
+	background-image: url("math_quiz_background.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background-image: url("math_objects.jpg");
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+.text{
+	color: white;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#number1 , #number2
+{
+	width: 60%;
+}
